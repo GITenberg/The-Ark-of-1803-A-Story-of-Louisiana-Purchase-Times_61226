@@ -1,0 +1,41 @@
+_repo: The-Ark-of-1803-A-Story-of-Louisiana-Purchase-Times_61226
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Burgess, H.
+    gutenberg_agent_id: '49347'
+    url: http://www.gutenberg.org/2009/agents/49347
+creator:
+  author:
+    agent_name: Stephens, C. A. (Charles Asbury)
+    aliases:
+    - Smith, Charlotte H.
+    - Burleigh, G. W.
+    - Stevens, Charles Asbury
+    - Stephens, Charles Asbury
+    - Adams, Charles
+    birthdate: 1844
+    deathdate: 1931
+    gutenberg_agent_id: '8996'
+    url: http://www.gutenberg.org/2009/agents/8996
+    wikipedia: https://en.wikipedia.org/wiki/C._A._Stephens
+description: ''
+gutenberg_issued: '2020-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61226'
+  lccn: '04012774'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Frontier and pioneer life -- United States -- Juvenile fiction'
+- !lcsh 'River boats -- Juvenile fiction'
+- GITenberg
+summary: Recounts the adventurous journey of a riverboat from Ohio to New Orleans
+  in 1803.
+title: 'The Ark of 1803: A Story of Louisiana Purchase Times'
+url: http://www.gutenberg.org/ebooks/61226
