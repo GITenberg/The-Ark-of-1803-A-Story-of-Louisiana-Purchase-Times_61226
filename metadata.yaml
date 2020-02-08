@@ -1,10 +1,13 @@
 _repo: The-Ark-of-1803-A-Story-of-Louisiana-Purchase-Times_61226
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Burgess, H.
     gutenberg_agent_id: '49347'
     url: http://www.gutenberg.org/2009/agents/49347
+covers:
+- cover_type: archival
+  image_path: 61226-h/images/cover.jpg
 creator:
   author:
     agent_name: Stephens, C. A. (Charles Asbury)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8996
     wikipedia: https://en.wikipedia.org/wiki/C._A._Stephens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61226#The-Ark-of-1803-A-Story-of-Louisiana-Purchase-Times
 gutenberg_issued: '2020-01-24'
 gutenberg_type: Text
 identifiers:
